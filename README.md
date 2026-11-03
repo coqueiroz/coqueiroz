@@ -1,16 +1,13 @@
-## Hi there 👋
+### Olá, sou o Lucas 👋
 
-<!--
-**coqueiroz/coqueiroz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor Python focado em **automação de processos** e **dados**. Termino Ciência da Computação em dez/2026 e procuro minha primeira vaga júnior (remoto ou João Pessoa).
 
-Here are some ideas to get you started:
+**Em destaque**
+- 💰 [Conciliação financeira](https://github.com/coqueiroz/conciliacao-financeira) — Python, pandas, SQL e Streamlit, com 31 testes · [demo](https://conciliacao-financeira-lucas.streamlit.app)
+- 🔔 [Aviso de vencimento de seguros](https://github.com/coqueiroz/sistema-aviso-vencimento-seguros) — Apps Script em produção para um cliente real
+- 🤖 [Automações n8n](https://github.com/coqueiroz/automacoes-n8n) — agentes de e-mail com Gemini e alertas via Google Sheets
+- 🎙️ [Video Transcriber](https://github.com/coqueiroz/video-transcriber) — app desktop + CLI com faster-whisper
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Stack:** Python · SQL (PostgreSQL, SQLite) · pandas · pytest · Streamlit · n8n · Google Apps Script · Git · inglês C1
+
+📫 [LinkedIn](https://www.linkedin.com/in/lucas-coqueiro)
